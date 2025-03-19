@@ -57,8 +57,8 @@
         <!-- Registration Form with Validation -->
         <h2>Registration Form</h2>
         <form action="/submit" method="post">
-            <label for="username">Username:</label><br>
-            <input type="text" id="username" name="username" required><br><br>
+            <label for="userame">Userame:</label><br>
+            <input type="text" id="Userame" name="Userame" required><br><br>
 
             <label for="email">Email:</label><br>
             <input type="email" id="email" name="email" required><br><br>
@@ -71,7 +71,7 @@
 
         <!-- Embedded Image -->
         <h2>Image</h2>
-        <img src="images/sample.jpg" alt="Sample Image" width="600">
+        <img src="images/pexels.com" alt="Sample Image" width="600">
 
         <!-- Embedded Table -->
         <h2>Table</h2>
